@@ -4,8 +4,6 @@ Manual Image scroll using Html, CSS, Js
 
 Create an image slider with scrolling text using HTML, CSS, and JavaScript.
 
-![Example](images/example.png)
-
 ## Table of Contents
 - [Description](#description)
 - [Usage](#usage)
@@ -31,7 +29,5 @@ Before you get started, ensure that you have the following:
 
 ## Installation
 
-1. Clone the repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
+any software that suits this language
+preferred-Vs code
